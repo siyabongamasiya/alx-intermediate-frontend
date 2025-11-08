@@ -1,0 +1,4 @@
+Installed Node.js (if not present).
+Used npx to run sass (no global install): npx sass
+Alternatively installed global CLI: npm install -g sass
+Verified sass works with: npx sass --version
